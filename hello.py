@@ -4,3 +4,4 @@
 from helper import greeting
 
 greeting("hello")
+greeting("See loop.py for printing number range")
